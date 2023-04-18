@@ -1,7 +1,7 @@
 import { SafeAreaView, View } from "react-native";
 
 import React from "react";
-import SignInWithOAuth from "../../components/SignInWithOAuth";
+import SignInWithOAuth from "../components/SignInWithOAuth";
 
 export const SignInSignUpScreen = () => {
   return (

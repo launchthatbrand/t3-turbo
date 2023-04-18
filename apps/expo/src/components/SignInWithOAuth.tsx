@@ -4,7 +4,7 @@ import { Button, View } from "react-native";
 
 import React from "react";
 import { useOAuth } from "@clerk/clerk-expo";
-import { useWarmUpBrowser } from "../app/hooks/useWarmUpBrowser";
+import { useWarmUpBrowser } from "../hooks/useWarmUpBrowser";
 
 const SignInWithOAuth = () => {
   useWarmUpBrowser();

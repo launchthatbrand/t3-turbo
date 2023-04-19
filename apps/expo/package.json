@@ -39,6 +39,7 @@
   },
   "devDependencies": {
     "@acme/api": "*",
+    "@acme/app": "*",
     "@acme/eslint-config": "*",
     "@acme/tailwind-config": "*",
     "@babel/core": "^7.21.4",

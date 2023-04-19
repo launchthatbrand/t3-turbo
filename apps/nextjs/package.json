@@ -15,6 +15,7 @@
   "dependencies": {
     "@acme/api": "^0.1.0",
     "@acme/db": "^0.1.0",
+    "@acme/app": "*",
     "@acme/tailwind-config": "^0.1.0",
     "@clerk/nextjs": "^4.11.0",
     "@tanstack/react-query": "^4.29.2",

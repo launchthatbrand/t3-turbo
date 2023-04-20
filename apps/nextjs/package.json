@@ -14,6 +14,7 @@
   },
   "dependencies": {
     "@acme/api": "^0.1.0",
+    "@acme/app": "*",
     "@acme/auth": "^0.1.0",
     "@acme/db": "^0.1.0",
     "@acme/tailwind-config": "^0.1.0",
@@ -37,6 +38,7 @@
     "autoprefixer": "^10.4.14",
     "dotenv-cli": "^7.2.1",
     "eslint": "^8.38.0",
+    "@expo/next-adapter": "5.0.2",
     "postcss": "^8.4.22",
     "tailwindcss": "^3.3.1",
     "typescript": "^5.0.4"

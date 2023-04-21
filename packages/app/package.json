@@ -6,10 +6,7 @@
   "license": "MIT",
   "dependencies": {
     "solito": "3.0.0",
-    "nativewind": "2.0.9",
-    "react-native": "0.0.0",
-    "react-native-web": "^0.18.6",
-    "react-native-web-lite": "^1.0.1-beta.144"
+    "nativewind": "2.0.9"
   },
   "sideEffects": false
 }
